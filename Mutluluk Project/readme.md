@@ -1,5 +1,11 @@
 # Mutluluk Projesi Raporu Analizi
 
+- Projenin amacı ;
+Bu veri seti ilk kez 2012 yılında yayınlanan 155 ülkeyi mutluluk seviyelerine göre sıralayan dünya mutluluk raporlarından oluşmaktadır. Bizde burda 6 faktör olarak belirlenen  -ekonomik üretim, sosyal destek, yaşam beklentisi, özgürlük, yolsuzluğun olmaması ve cömertlik  gibi kriterler ile raporu analiz edeciğiz 
+
+Bu veri setlerimizde düzenlenmesi gereken sütun isimlerini düzenledik verileri sıraladık ve analiz edilebilir hale getirdik. Şimdide  Gelelim bizlere verilen sorulara
+
+
 - İlk olarak import yapılması gereken kütüphaneleri importluyoruz.
 
 - Pandas üzerinden verilerimizi bir değişkene atayıp okutuyoruz.
